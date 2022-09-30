@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,500;1,600&family=Open+Sans:ital,wght@0,400;0,600;1,600&family=Ubuntu:ital,wght@0,400;0,500;1,500&display=swap');
+
+.imagen-fondo{
+position: absolute;
+width: 1309.5px;
+height: 768px;
+left: 0px;
+top: 108px;
+    background:
+    url(/src/assets/img/FI-monster.jpg);
+    filter: brightness(50%);
+}
+
+
+h3{
+    position: absolute;
+width: 456px;
+height: 235px;  
+left: 116px;
+top: 300px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 100px;
+
+color: #FFFFFF;
+}
+
+h2{
+    position: absolute;
+width: 307px;
+height: 37px;
+left: 696px;
+top: 700px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.boton_mas{
+    position: absolute;
+    text-decoration: none;
+    left: 121px;
+    top: 599px;
+    padding: 10px;
+
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #a8812600;
+    border-radius: 2px;
+    border: 4px solid #fffdfd;
+  }
+  .boton_mas:hover{
+    color: #ffffff;
+    background-color: #ffffff18;
+  }

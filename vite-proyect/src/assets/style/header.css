@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,500;1,600&family=Open+Sans:ital,wght@0,400;0,600;1,600&family=Ubuntu:ital,wght@0,400;0,500;1,500&display=swap');
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    position: relative;
+    width: 1309.5px;
+    height: 768px;
+    background: #000000;
+}
+
+header img {
+    position: absolute;
+    width: 108px;
+    height: 108px;
+    left: 116px;
+    top: 0px;
+
+    background: url('../assets/img/CSR_toro.jpg');
+}
+
+button:hover {
+    background-color: #41413e70; 
+    color: white;
+    border-radius: 6px;
+  }
+
+.proyectos{
+    background-color: transparent;
+    position: absolute;
+    width: 123px;
+    height: 37px;
+    left: 286px;
+    top: 35px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+
+.popular{
+    background-color: transparent;
+    position: absolute;
+width: 157px;
+height: 37px;
+left: 431px;
+top: 35px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+
+.acerca{
+    background-color: transparent;
+    position: absolute;
+width: 123px;
+height: 37px;
+left: 610px;
+top: 35px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+
+.futuro{
+    background-color: transparent;
+    position: absolute;
+    width: 123px;
+    height: 37px;
+    left: 748px;
+    top: 35px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+
+.lupa{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 1230px;
+top: 40px;
+
+background: url(buscar.png);
+}
+
+.boton_login{
+    position: absolute;
+    text-decoration: none;
+    left: 1100px;
+    top: 30px;
+    padding: 10px;
+
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #a88026;
+    border-radius: 6px;
+    border: 2px solid #000000;
+  }
+  .boton_login:hover{
+    color: #a88026;
+    background-color: #ffffff;
+  }

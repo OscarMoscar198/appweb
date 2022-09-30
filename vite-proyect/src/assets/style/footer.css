@@ -1,0 +1,129 @@
+
+footer {
+    margin-top: 898px;
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    left: 0px;
+    overflow-y: hidden;
+    
+    background: #000000;
+}
+
+
+
+
+.texto-abajo a{
+    color: white;
+    display: block;
+}
+
+.acercad{
+
+    position: absolute;
+    width: 114px;
+    height: 14px;
+    left: 50px;
+    margin-top: 37px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.contacto{
+    position: absolute;
+    width: 114px;
+    height: 14px;
+    left: 180px;
+    margin-top: 37px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+
+.trabajos{
+    position: absolute;
+    width: 114px;
+    height: 14px;
+    left: 345px;
+    margin-top: 37px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 200px;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.terminos{
+    position: absolute;
+    width: 120px;
+    height: 14px;
+    left: 475px;
+    margin-top: 30px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.politicasp{
+    position: absolute;
+    width: 163px;
+    height: 14px;
+    left: 628px;
+    margin-top: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+.politicasc{
+    position: absolute;
+    width: 138px;
+    height: 14px;
+    left: 785px;
+    margin-top: 30px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+
+.logo_foot{
+    position: absolute;
+    width: 170px;
+    height: 70px;
+    left: 1000px;
+    top: 7px;
+    
+}
